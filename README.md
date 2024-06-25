@@ -1,4 +1,4 @@
-# SQLServer-Queries
+# SQL-Server-Queries
 
 Welcome to the SQLServer-Queries repository. This repository contains various SQL Server queries and scripts to assist with database management and optimization.
 
