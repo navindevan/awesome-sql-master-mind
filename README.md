@@ -30,7 +30,7 @@ SQL mastery requires constant learning and exploration of best practices and new
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/awesome-sql-master-mind.git
+   git clone https://github.com/navindevan/awesome-sql-master-mind.git
 2. Explore the folders to find queries and scripts tailored to your needs.
 3. Modify and use them in your projects.
 
